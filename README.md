@@ -1,177 +1,305 @@
-=====[ BR ]=====
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rQO8X51FAxHvCilV2wSbTMWvi9P8e1rDtB919fnngakb9CjHX2dZ-obyMr2qeS30hW8iDqIDuSBAVqsToysuAHdmOAqhAyM9jyLm6T8P9pPUeRXPYeqyPtb8IYPjQfK02Z0N-b4C3_46BdLs1VthmEPLkBJ7rxbgyEi-dFIJQ9LDgxkF4iEGZ-PK/s320/proyectox%20(15).png"  channel-id="BRA-Espn Brasil (720)(M)" group-title="BRASIL ,BRA-Espn Brasil (720)(M)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/9409
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rQO8X51FAxHvCilV2wSbTMWvi9P8e1rDtB919fnngakb9CjHX2dZ-obyMr2qeS30hW8iDqIDuSBAVqsToysuAHdmOAqhAyM9jyLm6T8P9pPUeRXPYeqyPtb8IYPjQfK02Z0N-b4C3_46BdLs1VthmEPLkBJ7rxbgyEi-dFIJQ9LDgxkF4iEGZ-PK/s320/proyectox%20(15).png"  channel-id="BRA - Espn Brasil (720)(M)" group-title="BRASIL ,BRA - Espn Brasil (720)(M)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/9417
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rQO8X51FAxHvCilV2wSbTMWvi9P8e1rDtB919fnngakb9CjHX2dZ-obyMr2qeS30hW8iDqIDuSBAVqsToysuAHdmOAqhAyM9jyLm6T8P9pPUeRXPYeqyPtb8IYPjQfK02Z0N-b4C3_46BdLs1VthmEPLkBJ7rxbgyEi-dFIJQ9LDgxkF4iEGZ-PK/s320/proyectox%20(15).png"  channel-id="BRA - ESPN Brasil (M)(720)" group-title="BRASIL ,BRA - ESPN Brasil (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173878
-#EXTINF:0 logo=https://drive.google.com/uc?id=1_uk2C7wY_r8QR0S_2bjV__9gNBOLXhEb"  channel-id="BRA-Espn 2 Brasil (720)(M)" group-title="BRASIL ,BRA-Espn 2 Brasil (720)(M)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/9406
-#EXTINF:0 logo=https://drive.google.com/uc?id=1W3GY9s_BpN5GK5O8iLJcpEzV-KJ_rA9r"  channel-id="BRA-Espn Extra (720)(M)" group-title="BRASIL ,BRA-Espn Extra (720)(M)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/9408
-#EXTINF:0 logo=https://drive.google.com/uc?id=1wYGBlaErl9o-1puu351DiMsW21c-vCK1"  channel-id="BRA - Fox Sports 2 (720)(M)" group-title="BRASIL ,BRA - Fox Sports 2 (720)(M)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/9410
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMe4EmkYNtXO-RrUD5m50eiPDMzA9QRFwVGIQVWPNVAcN9HV0ump3whCv91GLRznW6-cu8hjKwPiTIMNxWCXwWJi8KkGP0ighLJxXbyShMUnXK1Iz5f-ymAd5G1dFVjdia47qAodIG0TDSDNtAIlfigd86UYh_M2o17EDP8actXH8SQxCUQf_mXFrV/s320/proyectox%20(20).png"  channel-id="BRA - FOX Sports (M)(720)" group-title="BRASIL ,BRA - FOX Sports (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173884
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipuBNkC-p4WibkU51MUgfNJWdqUCs-F3ceDA4rWxHC4BFeDICGhZRay6c1eOtzSlIBhp3cSBqk2r1ZAccn2D9-ITnS0jBP63CuyB9BPhw250EERaPHOajHa387PgWjx4KK__qNfPPfT4F6nTwQZ4bAYyqZ7NZh5ktER6b18O3M0UPgGKGiUG-Hk9CK/s320/proyectox2%20(11).png"  channel-id="BRA - Prime BOX Brasil (M)(720)" group-title="BRASIL ,BRA - Prime BOX Brasil (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173911
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqGdY6v6Ok4mNyShq_3aV8BqoiOzSSoLlLlba7H0nS3l5Sa1iV-TTqYny_HD0Xo80zJFfeobA4-9Nc_UmoxnMha_jwwUNDUDtRlIuBearx1YXNd38OSmyEV9bkp_evit-qOsGOL204s9D-cC0Ae-2SdqSPWltat_Jy2kiFwl618zrLFe0XnXthzABR/s320/l%20(30).png"  channel-id="BRA - Band Sports (M)(720)" group-title="BRASIL ,BRA - Band Sports (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173858
-#EXTINF:0 logo=https://drive.google.com/uc?id=1Adiog7RLeCRztLtazJdpNjehIYzC0Kwh"  channel-id="BRA - SporTV (M)(1080)" group-title="BRASIL ,BRA - SporTV (M)(1080)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/9413
-#EXTINF:0 logo=https://drive.google.com/uc?id=10A3s8ZH3o7AVg-SwSm7au-tcXOVp_fSn"  channel-id="BRA - SporTV 2 (720)(M)" group-title="BRASIL ,BRA - SporTV 2 (720)(M)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/9411
-#EXTINF:0 logo=https://drive.google.com/uc?id=1BcY4zXFzPaBxmrz5A30pSic3IiVFK-as"  channel-id="BRA - SporTV 3 (720)(M)" group-title="BRASIL ,BRA - SporTV 3 (720)(M)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/9412
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt3JEfFV1Fi-FhCzn4QyIlqvJYkm3dwW3VfE4sez3NnaM0p3OWFcvUGUI4rq-SefvE4Ck2fRK11NNBCzDjSdjI1h5Tr9VWMXYkN8M9xmSfsKA6jgKkLyCZSonaie-hEbw1Zmqys2id2QaX0YFFiMc9kd1MlQYKQDSBOpqptQRsobdVpwEfJK2zscrs/s320/l%20(25).png"  channel-id="BRA - A&E (M)(720)" group-title="BRASIL ,BRA - A&E (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173853
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4DJllPm1fFmrLJiywx8faSCjP5kiR3lCmNO_hdwvW43NeYM04LHn2m9lQeIDyLHQjTj3MuwRzYwiu6nKTkccD1xPaqRw1XhFBDVGO15PHQAtWX6-2WwYZQdziWPXLIkdTdaeF14SMKBJaahTa5HaVRxfL350mSM6TK6kZ8DT5bYvBtUAHnu5rWJnw/s320/l%20(27).png"  channel-id="BRA - AXN (M)(720)" group-title="BRASIL ,BRA - AXN (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173855
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizdrMNEAVmIBZTIRysdyRvEDm19R6etWjwTSRbC2K1m7PYp5d3yOZNnpIsgtZDSkNO5mgNgqZKkAvDO35P2YZtxEyIEcQ8WnZA2YyTCOt92dsJlAloFWu_zPWHJ6m_MB29h7OtP8Rh1PmC4yFESMUXh_O5ohq4_1tMUEpP-VuHhJx7gHCv7nMrMAVq/s320/proyectox.png"  channel-id="BRA - Cinemax (M)(720)" group-title="BRASIL ,BRA - Cinemax (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173863
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMPyeMquawnUnQG232Ok-eq5z4Ry3EhsNFBr-IuOGIrbTdhAJAkr-MZvhIG9YqkzEUTIyyv4VMnPiMwe5OTqn1Ex6hLiWBIVOAk7jFVvA5Iuihf7U3gBzEocNRhbohbXjvMqojOq76_DbDNnKqK6rSVGPDeKiLVkGN0QKBs_b2kbQpWoUCA2bKMc9m/s320/proyectox%20(2).png"  channel-id="BRA - Comedy Central (M)(720)" group-title="BRASIL ,BRA - Comedy Central (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173865
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuf9k4Evxzx1R2qA-_cBKOT5kFQD5D6B6MHvMAFhQWnGw8-bCtRaw4vp4l0iF498cenWwsQsdi8LiKmV8_B0gH9dBV8dvoWZPkLDM7eXqQPpUkrMFHJb1ObGC3PkH3cLSejBWBxDfjVK3COD5Wh7PU0tcDkROs9vco4JAFvBndWRQK-IJOIdk04CjI/s320/proyectox%20(17).png"  channel-id="BRA - Star Channel (M)(720)" group-title="BRASIL ,BRA - Star Channel (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173880
-#EXTINF:0 logo=https://drive.google.com/uc?id=1AxZevWf18wuBPw8TjOKsmvSicj3w0hX9"  channel-id="BRA - Star Life (M)(720)" group-title="BRASIL ,BRA - Star Life (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173881
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMsechwX7hqvpOaRvxaYRriQ8Z8NuPzqluXhDavBtjJX6ZI7PeXZEilXVEL1LpW25WFFxSg3_z9Ah-eAZBIdgBXIbWoef0ZHB7gz1ayJ36QxFrhwc9dP_yRgpB5ALnK8__AFKgOwdvceRRORFTIQe7tSoylqprz489pifYAy4I3KA93tQ_IcV3F7Bu/s320/proyectox%20(18).png"  channel-id="BRA - FOX Premium 1 (M)(720)" group-title="BRASIL ,BRA - FOX Premium 1 (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173882
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE5cpCtPPx-DmFK0OSQpTtCLVbEA9cUC9WeF4tRCIpLmWJB7n6bLI6VGX40TIASPf2x3qatL7fq_rbk1QxDA6pjojQ902qK6X9JDXq4xO2MXWaHseQ6IJpvi0MzDztPCnS3zogXAF6b7lVav_WMv_vLAyPRgp_iLmcQV2rfKO8trYQOkhe29ocbOvi/s320/proyectox%20(19).png"  channel-id="BRA - FOX Premium 2 (M)(720)" group-title="BRASIL ,BRA - FOX Premium 2 (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173883
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGs6rv0giuV4p-VTU_nUuN8iBjoOzLDWG7MJFuxGuNC559F8oluwbDhEv-_uXmtC8hVEAemy38mNUTNvtPxR0xwpwbXo1Jtd1ITvcH5M7tJs_JSAaWtjYXtupfAojUjCpeAqQWe_OdwfDYxQCBYL6gXWgaEpDUmriBFSIDnOqVagLcwjWBhQFTXpYi/s320/proyectox3%20(10).png"  channel-id="BRA - FX (M)(720)" group-title="BRASIL ,BRA - FX (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173886
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6jdDLe0oWem_OnM7i027mZ7Cd3kujzJheuQBu47h6vdZnD-jcjVKhTCF9Z-s5dc2rnK7yqcmsXIQc1iziKo1M6NGsL60BHimNfRfmO0DcpxZZw5JOCzITFui2luGzMSuDTwztof0FZUpx21r6MKPPjXjP9OGya4G5CILsqQmvGnIZQTZAKACrAgJY/s320/proyectox%20(24).png"  channel-id="BRA - GNT (M)(720)" group-title="BRASIL ,BRA - GNT (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173891
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-YHDRL3dt4vWLTPPwcMrA3y7AZV5JaGvwv2ZpuvSvvtxaYuokAIYGO8tD29ZNALzlQKJEZ1bv_9GY8fx5V-LIvRV4C-ZohrMemAnkEduprJkmfdws-lJrWcLLUmA6gFCjLrz8hcsVceB2Dp84V3nwTGZCQsRR7bTRCneMuHmUDaQ9ogY8ZVK3b0lC/s320/proyectox%20(26).png"  channel-id="BRA - HBO 2 (M)(720)" group-title="BRASIL ,BRA - HBO 2 (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173892
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjyFU8dKjvMYJ4rs1sd2jJ7uNiGLKy0QJl1EDpqlJmhucPwm52ZkRkGa4UDM24q3qBfw_ehiFDRqQrtn8MM5gB5MICm66rUaD_kbrPEgZ3ckgkhElZRgFacxzR1qZnIuxapcP_1FmscbQh5VYeJlp9wSV8u804f3m5ILLHyyt5_g5Wxy2_kriWvDs0/s320/proyectox%20(25).png"  channel-id="BRA - HBO FAMILY (M)(720)" group-title="BRASIL ,BRA - HBO FAMILY (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173893
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkHnlBLDbO5XdvG9YtiPbl_KVnka3wXX4mS5hNB8Q8WEoQy9ofbGNJT3osDsJO7eI5_rcg9-Sw81jNL-CtAfDG6pJMdugpGT-nvnSHicH-qnVfoPWHCpdglPhmTv38h5-8X6HFxEkdYcsbZdhFkjVAkxygPzzBZ0dnC0t9NdHfo1eNExqeEoEwXAcL/s320/proyectox%20(27).png"  channel-id="BRA - HBO (M)(720)" group-title="BRASIL ,BRA - HBO (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173894
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQvy2yIKjYajNnnrLDembgw0BCAILhFB2ewQ5sf-JKVkRMfST7YzV3E7aSQT06pC2DcLGTxt5O0nJE_PsjBe4dMXz-43CJzcHb4X7U8Mze0oJyQu9y8HSphcVc2PA5pISZul9P3OZ6FNkVuoU6s1bXi9QBccNIr4Xmm5X4xPp-5uGeI_C7txRmzS_3/s320/proyectox3%20(9).png"  channel-id="BRA - HBO Signature (M)(720)" group-title="BRASIL ,BRA - HBO Signature (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173895
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoS6FXrwq6jFAzpbW8gV8AOirfvk19LLDWypggBPGRLQYhqN414aBV4ieu7VfkbMwMmdqyyELcwpNPLJSiw9cY2JxxYP3HTOi7YYjFVeAjqyP8V__5FkVJ4bJL439JGKSRyYl-TCloEzT4H0JFno_ku4VPL4ggHWXEMENueO0f4F6w9EgDLBcF09Az/s320/proyectox%20(32).png"  channel-id="BRA - MAX (M)(720)" group-title="BRASIL ,BRA - MAX (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173900
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBtydh3JXAutOc3-Zkhgdr-_dVDgMLaCceulesdMKCl8nf4pEeUi6kXceXYTtdU3uCWVZOCQfXeVnGhGe1hD8u1_wBuZoj_aN4tnC7o3G9OiWebcD3FttJBM1JPmaQqawPojjRyU2vokFTzj__BbhbnM_q-S7e3XXPmIiM4zWf_6z5zBd9tSa0KBiY/s320/proyectox2.png"  channel-id="BRA - MAX Prime (M)(720)" group-title="BRASIL ,BRA - MAX Prime (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173901
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHf7iJEhzpJqvc7E0LEW-gVtjrkTrhixDgXGgKNw2BQVl2rAtzZOQb5OnO-ZOO393qlC9YH8rfQ9WVDz8X6IC5IOXAMYkvKHaRsqqweocnbnnECfoy3WpB0lzyPuDU91qQTG5TlyOI7ZnUMYFJmex71SNYwGkseqNVTHH_LDgssjqfuGym70gGEYQP/s320/proyectox2%20(1).png"  channel-id="BRA - MAX UP (M)(720)" group-title="BRASIL ,BRA - MAX UP (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173902
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1jajUpiStclX7kiJ8vDWXYirm6bwW8c8KQlM0natKEbhhlK9sGfSQZnx_f4dbkieCl9uMnjfURyqrcEo8OOkq-KoUvAbT5NZbCTdFKJj1LaUZ9iuRp2U8f8IyuTBNWE52814gikEwKZVH6-yv19P6HjN2ezDjJTZBkd6JC_BzkhfY2s5EEN0eBoYB/s320/proyectox2%20(2).png"  channel-id="BRA - Megapix (M)(720)" group-title="BRASIL ,BRA - Megapix (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173903
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zr42H4tzBX35dd-2w_AxUDbwBvNEDUOH-iB1_v-MqI9YIMVL7jyjsg9kuZ16ZPK4hMitQm4d-uXn2v1NSueOejTWNOKuINUXbTYFpIftMrAniQHa_ZTGJlzk95bmxw5YCJoYBv9dKD667ytssiAPebn3MmfrBVAkGEYaeWbNDLecvKiK5aDzqOhi/s320/proyectox2%20(14).png"  channel-id="BRA - SONY (M)(720)" group-title="BRASIL ,BRA - SONY (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173915
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDXcIuDFC2iB84_hOBwhpZ3xEVn2XVUjBoW--OFLXEEpaRuaBcwBJGQ7hzSLbEBumIUyer72xqRaDG6oAFzqXFKDrXW9fJi787TOFZ06vEjkGM-Q9EU3r6gq-XpSmkfey7hgdT7j5_YV_16ObbkK5JEboHwN5E4ygUTNolLIpjWvAlctVpC3qOWvhQ/s320/proyectox2%20(15).png"  channel-id="BRA - Space (M)(720)" group-title="BRASIL ,BRA - Space (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173916
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic3GFDSYPXBFXkBhsoddyb-bJvX0RBihYkCMbjlDDt85sSNwV_L-yK1WGswn6rScrwy568ILfq_AfxVwdxlndWUAR-2kk8nLt_eBEaclZ-ZPoYYvEc4rBLApLyQ2Etew5S7dRnxqK_MKMxUa_Ks6ysDvLF-QSYHiFOq6ZPjyusxE8n2PkRbOq7NbmI/s320/proyectox2%20(16).png"  channel-id="BRA - Studio Universal (M)(720)" group-title="BRASIL ,BRA - Studio Universal (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173917
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzeyahfrNsNhvQzKuR0J40YnDXKQ3GqAsMOctlEWd-n7sdyepX3RG5tcjjALwnMOMgCnkvPfts7sJehyrI799ukNRB_d118ZK8UQL7FNmYZepH9kjnf6xgydY9Jk6Tu-PxrZqN3rk87McatmWjY00hOi23b8bI5jc3IUkSJ3odC_fOWGRYBeDLd4ZP/s320/proyectox2%20(17).png"  channel-id="BRA - SYFY (M)(720)" group-title="BRASIL ,BRA - SYFY (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173918
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1VPyohlA5VhshLHTUdn--AJOG442yqIv_GR2-Stb7cq70d7BbPnjyAfyy4TAnTVcehEeyrrJgQGPJhbOC9pRDAp46Igo73TKg7CLz7X19M5Ml6gJgonrEZ4lNXGpU3QhQ5dWM8nwXY-vQBdDZ5UHVYo0r0nIZu0zJC3aKjzj9-ftV8mRuXY2EZKai/s320/proyectox2%20(18).png"  channel-id="BRA - TBS (M)(720)" group-title="BRASIL ,BRA - TBS (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173919
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBNHCMAaO4rRn58zMCl4CjWBhbqq_gkIF1htwh_mENwy0is1SDf8JkjD9k6xK0Iih2UDAmFYokB6sG987wgYPyiqmQnESaJNHszflMO1m2ZD1TLcFnQYUSEdfwrMeqg1fWx_BJN_3_yyVxgzw_K0-0tNMPJExtV6sCMHsKfR7QuB6atZa7Zh-qvEKQ/s320/proyectox2%20(19).png"  channel-id="BRA - Telecine Action (M)(720)" group-title="BRASIL ,BRA - Telecine Action (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173920
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxrjbFpYZX3agrnU4OVJKlBNqOAI2ofO1rOdesx0piEjQjheyOLAzW7X1FKItVdGB65mENRJnFRavrtaAxIlnkSWAT_gS0dQrw6z2VyvceA_IHu7eNWudvDc3NHNm2jFX3q4IAulBtbLAO1LHFjQs6-A9VGJ_dphrihc7uu1nk2KlMf1FVOFQWWQ8L/s320/proyectox2%20(20).png"  channel-id="BRA - Telecine Cult (M)(720)" group-title="BRASIL ,BRA - Telecine Cult (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173921
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCf6bJkdw6Q1lluejHU4_8YBhRpuMFe4GBqLaTQ7KKL-ZiiF9YIp_WH708GjKz-NY8GHKRYny6xG8bc-WUwqu6Ccl8dfi3oZNvFhSp_bzJdeh7DRtIFhJZX7bQB0svZqDluPJ5p6l0r7OhrGG9cLFKWdYVI29hsg3csRFGZY-0JEm07ZDE22AL55wR/s320/proyectox2%20(21).png"  channel-id="BRA - Telecine FUN (M)(720)" group-title="BRASIL ,BRA - Telecine FUN (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173922
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZxUQjeeirLvj1JY4r0_5g6sqUPJSB-x_sKnIg5OSuDmTM-FiAwmYH15-0uRM-84enAkgWppfIZizGsdI_apOZ-ZBvehl-y4wLBc40mqTOhKmSrNpHYbK_xg6oEZ9p90oKHO8o2BLpc0ZYV6ywhnIKCMTRq2u1Ef2SlRGluoH7DWgS2PyR0bFFDEEL/s320/proyectox2%20(22).png"  channel-id="BRA - Telecine Pipoca (M)(720)" group-title="BRASIL ,BRA - Telecine Pipoca (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173923
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHCMpAdPne-XIVq0y5_ozmFrPjGK6msOzFcOJbJ6EQNpZgcWGQ4JD_nEuHfF4_zpQLikpkuLYMTqH2Jx4xv7nwWw6jey2qKQBvFsUq84g8MEmTzIqz90pHOs2RaT8Lgmrxaff8zYEM0yVzbRFWUJER3QlsrFHG_Sa3ScmEdOj5r_wJ9uYiEPJXX8GO/s320/proyectox2%20(23).png"  channel-id="BRA - Telecine Premium (M)(720)" group-title="BRASIL ,BRA - Telecine Premium (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173924
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6xOifGHWyEkiHLAbhCuYocAl1WPIdMI-a_kazZ9AypNUUKR_10MYK_tuXTUQGWl83zDQRBzT_bgJ4FYvIX42IkcKQQqQiAQdiq8yhPl-NwUsa8u3xmNoD9NvUZdB9xgyyRChOjlGfu-iLABNroUNr6Bc4-Ze0jTuxLht_jzG1Z002hBj4n-830eHF/s320/proyectox2%20(24).png"  channel-id="BRA - Telecine Touch (M)(720)" group-title="BRASIL ,BRA - Telecine Touch (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173925
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhknKDg_Yp7jy1I86KI0KNvQr5FKFxcMlmtSQIG8yLJzaLGyHTafHWzR5L0SEKxuWYeu7tGzEqp3ZZJ8x3J1vkso5IBzp2LrV2GcJh8wq4NcY060xrkRCd_gKAfnW-9fBdjfqfS9iS-6VOQlb1dNX-Wqr6vinS3UyE8hGDM1MXwzlP0hGgr1Az5y5qH/s320/proyectox3%20(11).png"  channel-id="BRA - TLC (M)(720)" group-title="BRASIL ,BRA - TLC (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173926
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbb3dBCQ_MzCsd0Edi2mBLYKzVALRCxCAui2F7JfPF_lHpC2lyuspoC4G9flLdXSV0H4f-qwF9wFhZ-wFJGJAf5Znpqd9fAV_3x7dKeLvw26sOTjqiERJu5fbsNsHRXUIDAe-8NAE2y2hVU72MbWfupW2H6mA8yAFYkdB_MwMYSQAJCm_BTX4szaFB/s320/proyectox2%20(25).png"  channel-id="BRA - TNT (M)(720)" group-title="BRASIL ,BRA - TNT (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173927
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOI75vQOlqK3i23FQ_dB3b8XhLPY_J1euT4wtOc1Q2xEr2myz0PVBX5eE5U_NGLcAda5LD_DusD7EnhxFn0V35_feyDLbbVnBKq2Oi2i_PXMm0iN4wa9ae8KpKXtNxeKV9vlNFXJ_XxksNN6xrpVczSdoLd964OG9mbjqjdERvM2IBDDTJ2deTGBvS/s320/proyectox2%20(26).png"  channel-id="BRA - TNT Series (M)(720)" group-title="BRASIL ,BRA - TNT Series (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173928
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBh64kTZoH940BxlgO75I3jDS3of2pU_ICdYgWDf0G6pm89ICacjxBy1l40BCD43TgETlWtMM6SdoFShDuEGkD0_daVm48AFFFIdcHXSBb7XW62PcWod2bvq-F5_wK5VMoHCBXFUQuh0h4Xwd6kRJ86q8w7BFyHAnDsxFuXlXf8WHmzCHdSrI1lm5V/s320/proyectox2%20(28).png"  channel-id="BRA - Universal Channel (M)(720)" group-title="BRASIL ,BRA - Universal Channel (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173934
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqL3fY1q24xJS6jiiHMd_rCRAcYmYyYyRD0IJvr2Tk_C27CxwJw_-gVDgH-f6VdtGJ_N3Mjldv5S_Gzz0LOWOP9foAh0ncrYrwPx3vOwsbYmv0879iY2CPZjRmmuO0m5IkSjNHOhDeduxdPVbxixK25xRdhqsMQzhg-yR_v1L8T0bmQixZJBOo1flY/s320/proyectox2%20(30).png"  channel-id="BRA - Warner (M)(720)" group-title="BRASIL ,BRA - Warner (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173936
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJDxRzm6tydCIl4v5N2Ef8JsNfswFq-2cj1c24dVkHqppKDNLNrJP6BUemVQsvcvx3EBbgGcSyTq-rVw4-pn8T0EXUVY3aW_hz8Xn8Qpgmi68g3mM8dBqJOz92Yv7R1w-ZWAQpCTNT8bHAhfRA0aCA-BkjCpVSZZ9weygRcmfXn7ZeUaacVs7pyPa/s320/l%20(26).png"  channel-id="BRA - Animal Planet (M)(720)" group-title="BRASIL ,BRA - Animal Planet (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173854
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnhwixVJSlRz66J_VDJmnfkOzFE3hqHKhVCCdU_edOL0RaIOifwX8X1a6xJ0jr3c82jZHa6eIX79xMI2inyR6Y-QPdA_XACPlbArmbiMw9BvA-J7iJ-ChWAZXwTO8LTInNemVNsFcK7cOaSFtZj5e2uP_9SxM_JCg7c--hkN6IrJfA92yT_b6Q-PQf/s320/proyectox%20(11).png"  channel-id="BRA - Discovery Channel (M)(720)" group-title="BRASIL ,BRA - Discovery Channel (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173866
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvc0j9yybrt4p2BMNV2E3TvwbzI9PIu_7nE200YPLXghW4_eTHLPmGexXYPQE3mV6p3EEAcwk7cYhc65RNDYLYkYxdGk_oKg-PtvNYOasK3KMLEtd9ODAa4_aIlHADMQSJGhDCl2W8G2nntPrCNTQ8stXV_ffH-QeXqOU3Kz_0Abhmgnb7IF7agc6F/s320/proyectox%20(3).png"  channel-id="BRA - Discovery Civilization (M)(720)" group-title="BRASIL ,BRA - Discovery Civilization (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173867
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1qCktqJiMEBNngvRlw9YlhPKCCgvBSlNV7qNo4TG3Hsl8yqIMfZpqyg_dJmrYGCBYVY7GdflGmPsW-40R8GBCs4A0eEal1gZet8uJvAWi-rgasoX-Imwk-dSf8Jf9_RxET1pJePJRFSs2dI8qDO3M5p9Bo2KDu8_ZRCp0j-MoQIlLk8tWg-KTcgZt/s320/proyectox%20(4).png"  channel-id="BRA - Discovery H&H (M)(720)" group-title="BRASIL ,BRA - Discovery H&H (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173868
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuTHlKxqjvy_Y4E-1d0YQxVGX-0357tTVCEFmBQ4rWT_c89OKmHCmF45VLD7C_wkzxbWvS_KBa50HB5sgFDNhDf8-gsb6bMpZggFK14lEWGtRzZ4PRNddvh2X-5II86zepLOaQ6dnBCL-5GysshxUncoTQ8itIri_QVR3tO2TYJ4sCF1qgkajaEs2y/s320/proyectox%20(5).png"  channel-id="BRA - Discovery ID (M)(720)" group-title="BRASIL ,BRA - Discovery ID (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173869
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTjxwGA8upirpy3HYeetenra9Q_aYHnwUbRY1zy9Yl9RPv2cw7VqQ9yRpMFWVt15qvQBPlWmUpMYfdmPYN2OkHyCEEMJBNe-KLM7ti_bdX_TSiokQq1yje_uSJUUCIAsmcKYi6oUUwnxsOFa6J-GBTQOkKWLds2o5fUNZa85oIXJLN_PcnvKdOs5tO/s320/proyectox%20(7).png"  channel-id="BRA - Discovery Science (M)(720)" group-title="BRASIL ,BRA - Discovery Science (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173871
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbH6meR3h3gtGm5m8FSoz61Bc2Wzx_hPGrksNPxJBH1iQ9irYWjDuGOMQ8cvEtMlrWansiMSTjmCE5WfavO7tMLOWoEW13NYXS4glvVaeJW2abrxF1jXjQaVHIgynmmve1-ueVbz5uV9-m0M_X1bLgQOqz_LF-uenkfGW2OHwl-77edHj4OUDBsD5P/s320/proyectox%20(8).png"  channel-id="BRA - Discovery Theather (M)(720)" group-title="BRASIL ,BRA - Discovery Theather (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173872
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqANWKRjTv0DtHC7Z-UebsUvHlHm-RMwCCObSxKEd-0fRzLyFiqqDty4Q_t0FuySxjru8v2Shmf6Uj5Bn6-qPVBsv92REMdTOXQsWO2XbvgPCabOX2iXFMxbVCtShN1MDpW4mlkmFtLHhsELDssiMiKh15O-Ihznw-zZULJ2Y6JBtHdXvoZUFEpnlQ/s320/proyectox%20(9).png"  channel-id="BRA - Discovery Turbo (M)(720)" group-title="BRASIL ,BRA - Discovery Turbo (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173873
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXB4W1TYsRIFRcgXqOdoXOPT1arbwbbCnfC4CqW74urhPmrlYosWzQvjUNT0qWG3E8OxRWjyg08_bCNIUvjkPbbNG4tVhhkLzHQrZynuP_8lExHw7R0J6ER2lwU7acCew3hFeirhrCHCygoG0HKMwIw-r3GOvTJZO9PxNqzMjNbWisIMtujY9-fsKY/s320/proyectox%20(10).png"  channel-id="BRA - Discovery World (M)(720)" group-title="BRASIL ,BRA - Discovery World (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173874
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguW8LNhV7BZCVCWHf8zSVON1-dlBrEz3UhjB5tHyygHbaYijOs3Hp7BV9XJf3JkYynHTiDuyR3wkHstlXfxuRMKj13XMz_oqcfX7YItLRPyBK3ZXiOijN-BwCXZrvVSjL97Zltwtpe6AHUypMU3SG7Thm3t9U1xfXzwPcZcdUHYbSWnBXgqKK1TBb9/s320/proyectox%20(12).png"  channel-id="BRA - Disney Channel (M)(720)" group-title="BRASIL ,BRA - Disney Channel (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173875
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxgcjMQOHTvxaQIN7yWJeElHO3rKujxqruqs62QxaxrxQiqNJVBFQMHm3OiE8M9QY4ZE-GS3R95lLBRWbpfPzp2WioKE1sZ5g7clIipu4FvMFDZ9YOtysTVkCRrQiKUq_7RZjxf9LsfUYZfYDqCdHqinQtI9IGJF_jJa0atDFLfZPHmEy3O1qAByLR/s320/proyectox%20(16).png"  channel-id="BRA - Fish TV (M)(720)" group-title="BRASIL ,BRA - Fish TV (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173879
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMgztdWv--YLXDOVD55vmFYgbEwCQnuDiPbciotJUDcJzhJxL2MWcZLC4n2MOeBF7AJaX1r3RxgJjNNPNpSaCCHnPRZBD1t03elUoAblZZP0Zd4coNx3DnzCIfI0nqtyItFWPx1KMe0jliKhMAl2jc-fZXNQB0xrqsjVZxW6-Bl4BOyJX5JNhSDgbT/s320/proyectox%20(28).png"  channel-id="BRA - History 2 (M)(720)" group-title="BRASIL ,BRA - History 2 (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173896
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsdyoTiIuWHCnQ9imGCcBnrSnVNBuy-07z3IGwKRvnyOP0LF9ONt7EnW20xXFe93snmQHEZNCkgG3EOW0TvFp-IoPp36gaLhw8jOk3FZAi_7mIyRiQ28wxnsFZMKZjX5Y3QBVTYYyUZSAHSU9Js1yQZv42kQdkTt4p-2RkulK5B0u6C8w4y6iau73W/s320/proyectox%20(29).png"  channel-id="BRA - History Channel (M)(720)" group-title="BRASIL ,BRA - History Channel (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173897
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBY9zv50P9ocogiaOB-KFzfZhksCiyWLEYAfiOvDFBn87Fo6eySmOhQwAJ1wnOLX0jztHKXT9sN7U6WLqfryQj5Nc8pJ6mz3R_Dar54Yfyj3YUSgFilGTOfMQ11lfpkSYj9xB9L0CF4jTA0aUw-no1_SqTvVwSUpoMw1XuJsiCnUg7sv48bQIGhYo6/s320/proyectox%20(30).png"  channel-id="BRA - Lifetime (M)(720)" group-title="BRASIL ,BRA - Lifetime (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173898
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiei3eIeqzjUEK-IFueb7oq-EWMRowJwDFqWm9yl-8RoZs3nRw64rR5oAFz7s7RJat7lddwBqb3msCw1nss75iuBpAdQzJTFkDdEw2OeNeq0lUUuFynnIMjWoEAMVIfpVqO1QjXCwKgfl9O02eRdgYHu1xFrblV2XmIDNKjsQDgdAuo3U9_gqdhuhUo/s320/proyectox%20(31).png"  channel-id="BRA - Mais Globosat (M)(720)" group-title="BRASIL ,BRA - Mais Globosat (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173899
-#EXTINF:0 logo=https://drive.google.com/uc?id=1IwB7hn4jHJnFRLPFm8feJgCjMBDdF7lz"  channel-id="BRA - Nat Geo Kids (M)(720)" group-title="BRASIL ,BRA - Nat Geo Kids (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173905
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm3DHgvPWW5vHJuqgY0VR2ItloYbbHuWHcNPDwGv3Qg4QFfEKMh-WphJG7HXEdIVhJn7E72UhKktTC5D10reMitVW7vJsvmDd18r4yzILnKQPUvAoSDLbhYtpJ0dWJwhC0E2RPM0cfX9-bg1MBkDgM7EnxFgu7xars1ro-RKBbDaIJ395Ly_R9Z_Pn/s320/proyectox2%20(5).png"  channel-id="BRA - NAT GEO Wild (M)(720)" group-title="BRASIL ,BRA - NAT GEO Wild (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173906
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfGWtob4h8L-8xycMQlFtpho4MqOahtIbjyIY2kBn57LILlBcTSGtPN-NUUlxB4wV6uU1DjGm0zcoIiO0a3DZHZlQGN7BBa0LTUJkyKAQdUndMxffO3getR74PKFhDXg0gsWiWf9cueahDPNPqSzt124MnUtQ12-sNjY3xcYJ37sc10Cs12VfTGOZN/s320/proyectox2%20(6).png"  channel-id="BRA - National Geographic (M)(720)" group-title="BRASIL ,BRA - National Geographic (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173907
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRd-yLUV9GAwCXARwGXl85GIoHsLmbdL6GdihVtQhJYpUCtEJF1oOVa_Fkdn0XD-tFDO_vonn4GPfaQu-NtHKXTg42qd5bhaCDvHQ1CpYv7oksJ1eKli2pqUrEZRmvuOii4OWBBKxyzH2rtqdOqNoScmZk88xhOOO9bbG2w7QPvmI-KxliRbkgr8E/s320/proyectox%20(14).png"  channel-id="BRA - E! (M)(720)" group-title="BRASIL ,BRA - E! (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173877
-#EXTINF:0 logo=https://drive.google.com/uc?id=1xMgOmsEJD7_MpIcLlVu5nZ9zzsRRO7un"  channel-id="BRA - Cartoonito (M)(720)" group-title="BRASIL ,BRA - Cartoonito (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173860
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkDS8oSKRUcdw99r5TFThIrzXLGMfrLDYWgJ7_v0HGBv-XSiJe88ceexcf1n-laclCw_Q0Zuo8toChXdaLxqvEiyUaeBrLaqrCRclTSLAtTN1Nx_f49jiJsEyW77ubtaAKaBlmleRfkpTJJ142GNQvh1qbuX7GjDWHK-D2XDmRH3Z12V1fTUQ6rhI0/s320/proyectoxq.png"  channel-id="BRA - Cartoon Network (M)(720)" group-title="BRASIL ,BRA - Cartoon Network (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173862
-#EXTINF:0 logo=https://drive.google.com/uc?id=14lTRgp8hDTWlwKHwLWjQdWQaF2HtvIrK"  channel-id="BRA - Discovery Kids (M)(720)" group-title="BRASIL ,BRA - Discovery Kids (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173870
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOrHTbj6CN2smh5iSrxAuU_OcBTXFqQ8JjgkdEGPrmHeqWGfGyL5RkSgRRHIoQYgKMYd-cb5MmCgv3BtezxcckHxtIGn2TUtHzJ0-pJFO4X8OWpwJskEk1UAAiuID9V9lICX0WudKeuLUkSUATGju39aEJXYMVIN7nUlkMtqXCMzOxr0W83LAz9hmC/s320/proyectox%20(13).png"  channel-id="BRA - Disney Junior (M)(720)" group-title="BRASIL ,BRA - Disney Junior (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173876
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWEbYaH7_1qHt6nU23BvCRtqyhvQGyFRhLWA0sJBEp44BmIOv9aG05Y1SOJp7V20Be8uJDauQxQQjse-o3EFxu22wrhN3Wgw46IwhwA8jZPjrg9gK_MMQQvB94jKO3NtZjV6UkrwsdCoTjHZPeg1ZGcbVdJwwAMWPJOf1H3RLfRZtxGJ1tPoETuB3B/s320/proyectox2%20(7).png"  channel-id="BRA - Nick JR (M)(720)" group-title="BRASIL ,BRA - Nick JR (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173908
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGLXfZ67366pqt4h0HbUd2w2KhX8BMx-Ur0SmlhNRbjEwJfp-2BgGznZ5LG5N12OYPXcSE8_JjetTeEQzhuxjHgnFta3QFxUBHkfucWNddc5MsFDi2SHkZrt18xCRWRDBvDwmdt5cPeA2rPljGRgOTV_CLqb6f5RMFmcrrlfStIlnCFAnu19tB6hoM/s320/proyectox2%20(8).png"  channel-id="BRA - Nickelodeon (M)(720)" group-title="BRASIL ,BRA - Nickelodeon (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173909
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjay2tdCXGtm4uRgRbH0uKvNHBLTqnYKunpEODf4T0REd3_HcwwhR8D7pMcrydNJiQFCbICE7j6j047h1hCcL4tSd1qeK8Cn-OZPrw2aPnbkS3rOr0AUEtq4S32wfv_1liWgVKokj6BgeXH1-C5q0JJbv2faO_xxGkIIbQHQck12YwpnZrSnYqkmJx5/s320/proyectox2%20(27).png"  channel-id="BRA - Tooncast (M)(720)" group-title="BRASIL ,BRA - Tooncast (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173929
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9-IWz96Q-r-BPfsAvZj1LYPo24X_oEV6pUhlxbwxpX8TtnrSTobd9Bs8Rl3UPB0nbVJQBLyxzNCVr-E-6bUzWE3GaXPAYI-tI5cTJSyNzT_nmiaeouzd9cHgYeAsouHNm7-V-K0pRB3ytewy9jCDY5QlIqbUdM0na_O0LjBnzYFTnvTPbJgtO0zUy/s320/l%20(28).png"  channel-id="BRA - Band (M)(720)" group-title="BRASIL ,BRA - Band (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173856
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBUq4I3vlpvsdKH-6dQQ0u93dwr84e9ydrw4FBDFqcQmM9WdrYojgkjenInAVxGUY-ty-5MeqVzx7DWLHi7jEUbUSnKaJl0b9SLSJy3pe53baa9OsNv2C9CirS6petBaxvhKjnPlHHHdHW45Kn8wnK6EC_-Becl01EXdkqwTDeVOPB-r42qmc7pLbo/s320/l%20(29).png"  channel-id="BRA - Band News (M)(720)" group-title="BRASIL ,BRA - Band News (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173857
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi686qGymgk7hX8-zSAvyu4zy1Th7WXAWmuflZl3CjbYm2m5H3mGav21Jy4l5O4LRQLyX2txpX4AOTnPojkzqoTyG3Yam14uP0hU9g32LULko7VOLztinPFACljO9jybnc0HM44sDpTJnKT0zRQGPWObH6YiMBWx3qgk9LX6I6Y7vTYIqCCr_cU9IDY/s320/l%20(31).png"  channel-id="BRA - BIS (M)(720)" group-title="BRASIL ,BRA - BIS (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173859
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbFWi1fZpfUiIJWlWWujLEwhqzDRLZohYK1B39b_WTscx2lxE84kcGWeV_OcwCpfUzUk8hCSWeO-tQGGayDZGLMPRuieXJwGyJyiTL-9d89UMHi9cVlP9tSPaNVIHj7BgyqymiedINSahTmAYdrb1h6wlZG9qSjsTxXf0b4oyR9VonaFZCfzXmE8dn/s320/l%20(32).png"  channel-id="BRA - Canal Brasil (M)(720)" group-title="BRASIL ,BRA - Canal Brasil (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173861
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgypsZQGCuDfM12al7BrKgAp78vc2c7xniq60h0nvyYMoB9hwFR_9mpJALOTxhh4drO9mEn9qKd5UKuaP2tFFRcdcwUbNmdTWD9kAsPx4mKt6xXa6gSvFkA_Hoqbzg3hfLfZ_djALhMRRCnd543XfxegjtALba-RYXMF4U0OTlH96bh6gBu4MLPCSJ8/s320/proyectox%20(1).png"  channel-id="BRA - Combate (M)(720)" group-title="BRASIL ,BRA - Combate (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173864
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhllgev2ygBSIPZyi-mt10DOfqxFuPQ-bxtHLxGN5RVpo9_mZ8oxd6SUh4QBRGt66YY1DgE0u31FRsWB9AwJLvy2uun77aXIE890fXS21CCOFgdeLNewEZplpJ5KE6knH-0KGL4moAYIQXri-xew3okw5r87ggVfNdAGmTd9EEbpxrT_KJeWIxV897V/s320/l%20(24).png"  channel-id="BRA - Globo Brasilia (M)(720)" group-title="BRASIL ,BRA - Globo Brasilia (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173852
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSOfBZRS_i8TOjLGsAHbZV2sDk21rkA1FG0BmcT5IBwcUm6UU23Kao4WzQrhVKgUzGQeKv_Q1dh16mKVRjPZAhGWgzPmJIJDVXO0LtlgCxI0luckxpHxoNEq-S9uEdN0t3Jw0DpxRkMoMdFhcKwxlyAgmSC41jakwtrKLVJHQRSL2rsrfYIScgh0Ty/s320/proyectox%20(21).png"  channel-id="BRA - Globo News (M)(720)" group-title="BRASIL ,BRA - Globo News (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173887
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjcZdFDW_c12AsDBT5bMsV9I3NLQRqzRxVsoOTqBsWL-k57RV3g9Dunnln6-thiwXGJ-45cPcj93g_I5zO1GxUGC3z3Slbu3B2ebFxYIw0y0ODHfHoVJFoTl7RL8V1EeCYaISnPHpEHL94_RNZa5HJjsN7DqKMFcwjxrvz6CKITEFnm55m4FvkAkZ/s320/proyectox%20(22).png"  channel-id="BRA - Globo Rio (M)(720)" group-title="BRASIL ,BRA - Globo Rio (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173888
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjcZdFDW_c12AsDBT5bMsV9I3NLQRqzRxVsoOTqBsWL-k57RV3g9Dunnln6-thiwXGJ-45cPcj93g_I5zO1GxUGC3z3Slbu3B2ebFxYIw0y0ODHfHoVJFoTl7RL8V1EeCYaISnPHpEHL94_RNZa5HJjsN7DqKMFcwjxrvz6CKITEFnm55m4FvkAkZ/s320/proyectox%20(22).png"  channel-id="BRA - Globo SP (M)(720)" group-title="BRASIL ,BRA - Globo SP (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173889
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9D9YtKX738yExoyqobGIP_I4RqgzJEIc29aBznsOl1wEtEGNktp9dbVxj1XRbWu2XOEVuE6AxtjzQE6U4kiqoCxtdWUi0blZb-7zgcTO94OqKyFSRfaUG-Q1esbX24SBrNa4h1Fmq710VSCt4fK4VNt-G2A7tRRPhVLssPxz3p67kmouB0ql1oo8E/s320/proyectox%20(23).png"  channel-id="BRA - Gloob (M)(720)" group-title="BRASIL ,BRA - Gloob (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173890
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-BS6VugTt7cB8ly2VcfnopvC8Uzbd3NaGL67Ot0RRD9oYK307KVI0Ahav7eXJaybdIx4T9oQBXI7ac0X-DrNnvXbPLDyfDDG-owGo_nS_CDaDN2DInAs29rWXM2jAT9L6ZzKyheNOJTEvy3X_wfOH2mK5j_HTZifGHu7M9clBtOn9HERS-i3Ul-B8/s320/proyectox2%20(3).png"  channel-id="BRA - Multishow (M)(720)" group-title="BRASIL ,BRA - Multishow (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173904
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPCfI2sjN79WohTlPlFRggmF1nvM58CShkD0Mz5ELH-Ee6Go9EaNAhlAp_5X9IHjKwXGfiMTKyP3ZHQorm8g2lnSXato0tA1xxOXf2TXFFSpnpeBLmZYPeqNLpA2Zwm5Mn4MFo2BCgbG-hbSmbtf2wxhMq3pJQEXGwkZJKFHuZVAXeCjQPF2owlRdR/s320/proyectox2%20(9).png"  channel-id="BRA - OFF (M)(720)" group-title="BRASIL ,BRA - OFF (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173910
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyWX_jE76JT_WoX5EPLYEFSyGAHE7X2DZ06IlUcKpftu9FfFSdovNd8SSf8H3NVedZWZDtqxl11UQ8kvQLwp1riEvP0BNy1leZkfY-Bm-V5oRRRaDjdiPtD5ORfXA-3HNfWE8zSz9aDXVxvbnQi3MY9fM_RepkEbmg8OE5xy-lZujDtOIZLlB4s2om/s320/proyectox2%20(12).png"  channel-id="BRA - RecordTV (M)(720)" group-title="BRASIL ,BRA - RecordTV (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173912
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi3b3S5Dv1Xe6L79vMIaH4lwyeIxtNzlAkRrnyP_sTAbHA84yWaI-ATLZcgwEKyO9Ca-cSrbI-v0XMHYKefAq4Laif9zNnPURQCKXqT4wL4nT36QMai_GcCvX5t4f2UPR1yS-OwQu1Nb37NlbX9y7RcJKC3BwcwH11Gw2InKD70reG4St3IfwFonlM/s320/proyectox2%20(13).png"  channel-id="BRA - Record News (M)(720)" group-title="BRASIL ,BRA - Record News (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173913
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMnNN_kTjY2yEPPWhQRVS8AprbnWPragnEvfTxRYcLtyQiothSejC5v_txQgEvkanDtePIkft2HBR8kKK0u0obG3M_TiSqSUqTuK82E7j_kzZ-Ap9elPOd26JptQfqidF7ZlTxlGIPKTjIjuI5m7Spbe1eRMLyfk6d1oLg7J-o5MvATxSuwP4iZvNn/s320/proyectox2%20(29).png"  channel-id="BRA - VIVA (M)(720)" group-title="BRASIL ,BRA - VIVA (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173935
-#EXTINF:0 logo=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcDJy9SDVr5RS0IfA6IqR-F1YsGz7CbxVlspv8Z0ay36VxLpzcCii_GDnD5E-Mvj0BbxzWwcwZS3NcCQZIlWal0yeZMWOt7q1OKSjLWb_u9xxBVHsNDfIy5wvhwCeYorU9lSqxBzopjiGCNSJWIPSLIZK9xHqaGXDyMveH6cKsc7i-QCjhRDNr1Bsq/s320/proyectox2%20(31).png"  channel-id="BRA - Woohoo (M)(720)" group-title="BRASIL ,BRA - Woohoo (M)(720)
-http://tv.proyect1.xyz:27500/abelcastellanos/6bCpEK58Az/173937
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BIG BROTHER BRAZIL 1" tvg-logo="http://103.161.34.240:81/logos/NEDERLAND/bigbrother.png" group-title="AM| BRAZIL",|BR| BIG BROTHER BRAZIL 1
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/500888
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BIG BROTHER BRAZIL 2" tvg-logo="http://103.161.34.240:81/logos/NEDERLAND/bigbrother.png" group-title="AM| BRAZIL",|BR| BIG BROTHER BRAZIL 2
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/500887
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BIG BROTHER BRAZIL 3" tvg-logo="http://103.161.34.240:81/logos/NEDERLAND/bigbrother.png" group-title="AM| BRAZIL",|BR| BIG BROTHER BRAZIL 3
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/500886
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BIG BROTHER BRAZIL 4" tvg-logo="http://103.161.34.240:81/logos/NEDERLAND/bigbrother.png" group-title="AM| BRAZIL",|BR| BIG BROTHER BRAZIL 4
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/500885
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BIG BROTHER BRAZIL 5" tvg-logo="http://103.161.34.240:81/logos/NEDERLAND/bigbrother.png" group-title="AM| BRAZIL",|BR| BIG BROTHER BRAZIL 5
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/500884
+#EXTINF:-1 tvg-id="" tvg-name="BR | CNN BRASIL FHD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/CNNBRASIL.png" group-title="AM| BRAZIL",BR | CNN BRASIL FHD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/501424
+#EXTINF:-1 tvg-id="" tvg-name="BR | CNN BRASIL HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/CNNBRASIL.png" group-title="AM| BRAZIL",BR | CNN BRASIL HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/501423
+#EXTINF:-1 tvg-id="" tvg-name="|BR| CNN BRASIL SD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/CNNBRASIL.png" group-title="AM| BRAZIL",|BR| CNN BRASIL SD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/501422
+#EXTINF:-1 tvg-id="" tvg-name="|BR| CNN INTERNACIONAL HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/CNNINTERNATIONNAL.png" group-title="AM| BRAZIL",|BR| CNN INTERNACIONAL HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/501421
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GLOBO BRASILA HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/GLOBO.png" group-title="AM| BRAZIL",|BR| GLOBO BRASILA HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8537
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GLOBO RJ HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/GLOBO.png" group-title="AM| BRAZIL",|BR| GLOBO RJ HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8536
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GLOBO SP HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/GLOBO.png" group-title="AM| BRAZIL",|BR| GLOBO SP HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8535
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GLOBO MINAS HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/GLOBO.png" group-title="AM| BRAZIL",|BR| GLOBO MINAS HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8534
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GLOBO NORDESTE HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/GLOBO.png" group-title="AM| BRAZIL",|BR| GLOBO NORDESTE HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8533
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/GLOBO.png" group-title="AM| BRAZIL",|BR| GLOBO RBS PORTO ALEGRE HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8532
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GLOBO TV MIRANTE HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/GLOBO.png" group-title="AM| BRAZIL",|BR| GLOBO TV MIRANTE HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8531
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GLOBOPLAY NA COPA" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/GLOBOPLAYNACOPA.png" group-title="AM| BRAZIL",|BR| GLOBOPLAY NA COPA
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/486307
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GLOBO TV SERGIPE HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/GLOBO.png" group-title="AM| BRAZIL",|BR| GLOBO TV SERGIPE HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8530
+#EXTINF:-1 tvg-id="" tvg-name="|BR| RECORD HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/record.png" group-title="AM| BRAZIL",|BR| RECORD HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8529
+#EXTINF:-1 tvg-id="" tvg-name="|BR| RECORD RJ HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/record.png" group-title="AM| BRAZIL",|BR| RECORD RJ HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8528
+#EXTINF:-1 tvg-id="" tvg-name="|BR| RECORD SP HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/record.png" group-title="AM| BRAZIL",|BR| RECORD SP HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8527
+#EXTINF:-1 tvg-id="" tvg-name="|BR| WOOHOO HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/WOOHOOHD.png" group-title="AM| BRAZIL",|BR| WOOHOO HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8526
+#EXTINF:-1 tvg-id="" tvg-name="|BR| VIVA HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/VIVAHD.png" group-title="AM| BRAZIL",|BR| VIVA HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8525
+#EXTINF:-1 tvg-id="" tvg-name="|BR| E! HD" tvg-logo="http://103.161.34.240:81/logos/EXYUMAKEDONIJA/ENTERTAINMENT.png" group-title="AM| BRAZIL",|BR| E! HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8524
+#EXTINF:-1 tvg-id="" tvg-name="|BR| LIFETIME HD" tvg-logo="http://103.161.34.214:81/logos/LATINO/LIFETIME.png" group-title="AM| BRAZIL",|BR| LIFETIME HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8522
+#EXTINF:-1 tvg-id="" tvg-name="|BR| FOOD NETWORK HD" tvg-logo="http://logo.ottc.pro:8080/logos/ISRAEL/FOODNETWORK.png" group-title="AM| BRAZIL",|BR| FOOD NETWORK HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8521
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GLOOB HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/GLOOBHD.png" group-title="AM| BRAZIL",|BR| GLOOB HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8520
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GNT HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/GNTHD.png" group-title="AM| BRAZIL",|BR| GNT HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8519
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GLOBOSAT HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/GLOBO.png" group-title="AM| BRAZIL",|BR| GLOBOSAT HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8518
+#EXTINF:-1 tvg-id="" tvg-name="|BR| CANAL BRASIL HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/CANALBRASILHD.png" group-title="AM| BRAZIL",|BR| CANAL BRASIL HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8517
+#EXTINF:-1 tvg-id="" tvg-name="|BR| NOVO TEMPO HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/NOVOTEMPOHD.png" group-title="AM| BRAZIL",|BR| NOVO TEMPO HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8516
+#EXTINF:-1 tvg-id="" tvg-name="|BR| REDE TV HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/REDETVHD.png" group-title="AM| BRAZIL",|BR| REDE TV HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8515
+#EXTINF:-1 tvg-id="" tvg-name="|BR| SBT HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/SBTHD.png" group-title="AM| BRAZIL",|BR| SBT HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8513
+#EXTINF:-1 tvg-id="" tvg-name="|BR| CURTA! HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/CURTAHD.png" group-title="AM| BRAZIL",|BR| CURTA! HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8512
+#EXTINF:-1 tvg-id="" tvg-name="|BR| PRIME BOX BRASIL HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/PRIMEBOXBRASILHD.png" group-title="AM| BRAZIL",|BR| PRIME BOX BRASIL HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8511
+#EXTINF:-1 tvg-id="" tvg-name="|BR| GLOBO NEWS HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/GLOBO.png" group-title="AM| BRAZIL",|BR| GLOBO NEWS HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8509
+#EXTINF:-1 tvg-id="" tvg-name="|BR| RECORD NEWS HD" tvg-logo="http://103.161.34.214:81/logos/LOGOS.MISSING/AM%20BRAZIL/record.png" group-title="AM| BRAZIL",|BR| RECORD NEWS HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8508
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BAND NEWS HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/BANDNEWSHD.png" group-title="AM| BRAZIL",|BR| BAND NEWS HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8507
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BABY HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/JEUNESSE/BABYTV.png" group-title="AM| BRAZIL",|BR| BABY HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8504
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BOOMERANG HD" tvg-logo="http://logo.ottc.pro:8080/logos/USA.KIDS/BOMMERANG.png" group-title="AM| BRAZIL",|BR| BOOMERANG HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8503
+#EXTINF:-1 tvg-id="" tvg-name="|BR| CARTOON NETWORK HD" tvg-logo="http://logo.ottc.pro:8080/logos/USA.KIDS/CARTOONNETWORK.png" group-title="AM| BRAZIL",|BR| CARTOON NETWORK HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8502
+#EXTINF:-1 tvg-id="" tvg-name="|BR| DISNEY CHANNEL HD" tvg-logo="http://logo.ottc.pro:8080/logos/USA.KIDS/DISNEYCHANNEL.png" group-title="AM| BRAZIL",|BR| DISNEY CHANNEL HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8501
+#EXTINF:-1 tvg-id="" tvg-name="|BR| NICK HD" tvg-logo="http://logo.ottc.pro:8080/logos/CANADA/NICK.png" group-title="AM| BRAZIL",|BR| NICK HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8498
+#EXTINF:-1 tvg-id="" tvg-name="|BR| NICK JR HD" tvg-logo="http://logo.ottc.pro:8080/logos/USA.KIDS/NICKJR.png" group-title="AM| BRAZIL",|BR| NICK JR HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8497
+#EXTINF:-1 tvg-id="" tvg-name="|BR| NICKELODEON HD" tvg-logo="http://103.161.34.214:81/logos/new%20logos/DE/nickelodeon.png" group-title="AM| BRAZIL",|BR| NICKELODEON HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8496
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TOONCAST HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/TOONCASTHD.png" group-title="AM| BRAZIL",|BR| TOONCAST HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8495
+#EXTINF:-1 tvg-id="" tvg-name="|BR| RA TIM BUM HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/RATIMBUMHD.png" group-title="AM| BRAZIL",|BR| RA TIM BUM HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8494
+#EXTINF:-1 tvg-id="" tvg-name="|BR| HBO HD" tvg-logo="http://103.161.34.215:81/logos/BULGARIA/HBOHD.png" group-title="AM| BRAZIL",|BR| HBO HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8490
+#EXTINF:-1 tvg-id="" tvg-name="|BR| HBO 2 HD" tvg-logo="http://103.161.34.215:81/logos/BULGARIA/HBO2.png" group-title="AM| BRAZIL",|BR| HBO 2 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8489
+#EXTINF:-1 tvg-id="" tvg-name="|BR| HBO FAMILY HD" tvg-logo="http://103.161.34.215:81/logos/BULGARIA/HBOHD.png" group-title="AM| BRAZIL",|BR| HBO FAMILY HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8488
+#EXTINF:-1 tvg-id="" tvg-name="|BR| HBO PLUS HD" tvg-logo="http://103.161.34.214:81/logos/LATINO/HBOPLUS.png" group-title="AM| BRAZIL",|BR| HBO PLUS HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8487
+#EXTINF:-1 tvg-id="" tvg-name="|BR| HBO SIGNATURE HD" tvg-logo="http://103.161.34.215:81/logos/BULGARIA/HBOHD.png" group-title="AM| BRAZIL",|BR| HBO SIGNATURE HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8486
+#EXTINF:-1 tvg-id="" tvg-name="|BR| HBO POP HD" tvg-logo="http://103.161.34.215:81/logos/BULGARIA/HBOHD.png" group-title="AM| BRAZIL",|BR| HBO POP HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/139043
+#EXTINF:-1 tvg-id="" tvg-name="|BR| HBO XTREME HD" tvg-logo="http://103.161.34.215:81/logos/BULGARIA/HBOHD.png" group-title="AM| BRAZIL",|BR| HBO XTREME HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/139042
+#EXTINF:-1 tvg-id="" tvg-name="|BR| PREMIERE CLUBES HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/PREMIERECLUBESHD.png" group-title="AM| BRAZIL",|BR| PREMIERE CLUBES HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8484
+#EXTINF:-1 tvg-id="" tvg-name="|BR| PREMIERE 2 HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/PREMIERE2HD.png" group-title="AM| BRAZIL",|BR| PREMIERE 2 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8483
+#EXTINF:-1 tvg-id="" tvg-name="|BR| PREMIERE 3 HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/PREMIERE3HD.png" group-title="AM| BRAZIL",|BR| PREMIERE 3 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8482
+#EXTINF:-1 tvg-id="" tvg-name="|BR| PREMIERE 4 HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/PREMIERE4HD.png" group-title="AM| BRAZIL",|BR| PREMIERE 4 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8481
+#EXTINF:-1 tvg-id="" tvg-name="|BR| PREMIERE 5 HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/PREMIERE5HD.png" group-title="AM| BRAZIL",|BR| PREMIERE 5 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8480
+#EXTINF:-1 tvg-id="" tvg-name="|BR| PREMIERE 6 HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/PREMIERE6HD.png" group-title="AM| BRAZIL",|BR| PREMIERE 6 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8479
+#EXTINF:-1 tvg-id="" tvg-name="|BR| PREMIERE 7 HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/PREMIERE7HD.png" group-title="AM| BRAZIL",|BR| PREMIERE 7 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8478
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TELECINE PREMIUM HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/TELECINEPREMIUMHD.png" group-title="AM| BRAZIL",|BR| TELECINE PREMIUM HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8477
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TNT HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/TNTHD.png" group-title="AM| BRAZIL",|BR| TNT HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8476
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TNT SERIES HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/TNTSERIESHD.png" group-title="AM| BRAZIL",|BR| TNT SERIES HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8475
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TELECINE ACTION HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/TELECINEACTIONHDAM.png" group-title="AM| BRAZIL",|BR| TELECINE ACTION HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8474
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TELECINE CULT HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/TELECINECULTHD.png" group-title="AM| BRAZIL",|BR| TELECINE CULT HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8473
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TELECINE FUN HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/TELECINEFUNHD.png" group-title="AM| BRAZIL",|BR| TELECINE FUN HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8472
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TELECINE PIPOCA HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/TELECINEPIPOCAHD.png" group-title="AM| BRAZIL",|BR| TELECINE PIPOCA HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8471
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TELECINE TOUCH HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/TELECINETOUCHHD.png" group-title="AM| BRAZIL",|BR| TELECINE TOUCH HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8470
+#EXTINF:-1 tvg-id="" tvg-name="|BR| WARNER CHANNEL HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/WARNERCHANNELHD.png" group-title="AM| BRAZIL",|BR| WARNER CHANNEL HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8469
+#EXTINF:-1 tvg-id="" tvg-name="|BR| AMC HD" tvg-logo="http://103.161.34.240:81/logos/EXYUMAKEDONIJA/AMC.png" group-title="AM| BRAZIL",|BR| AMC HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8468
+#EXTINF:-1 tvg-id="" tvg-name="|BR| ARTE 1 HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/ARTE1HD.png" group-title="AM| BRAZIL",|BR| ARTE 1 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8467
+#EXTINF:-1 tvg-id="" tvg-name="|BR| AXN HD" tvg-logo="http://103.161.34.240:81/logos/MEXICO/AXNFHD.png" group-title="AM| BRAZIL",|BR| AXN HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8466
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BAND CAMPINAS HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/BANDCAMPINASHD.png" group-title="AM| BRAZIL",|BR| BAND CAMPINAS HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8465
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BAND SP HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/BANDSPHD.png" group-title="AM| BRAZIL",|BR| BAND SP HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8464
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BAND SPORT HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/BANDSPORTSHD.png" group-title="AM| BRAZIL",|BR| BAND SPORT HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8463
+#EXTINF:-1 tvg-id="" tvg-name="|BR| CINEMAX HD" tvg-logo="http://103.161.34.240:81/logos/EXYUMAKEDONIJA/CINEMAX.png" group-title="AM| BRAZIL",|BR| CINEMAX HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8462
+#EXTINF:-1 tvg-id="" tvg-name="|BR| COMEDY CENTRAL HD" tvg-logo="http://logo.ottc.pro:8080/logos/FRENCH/GENERALE/COMEDYCENTRALHD.png" group-title="AM| BRAZIL",|BR| COMEDY CENTRAL HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8461
+#EXTINF:-1 tvg-id="" tvg-name="|BR| FOX HD" tvg-logo="http://logo.ottc.pro:8080/logos/USA.FOX/FOX.png" group-title="AM| BRAZIL",|BR| FOX HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8460
+#EXTINF:-1 tvg-id="" tvg-name="|BR| FX HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/FXHD.png" group-title="AM| BRAZIL",|BR| FX HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8458
+#EXTINF:-1 tvg-id="" tvg-name="|BR| MEGAPIX HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/MEGAPIXHD.png" group-title="AM| BRAZIL",|BR| MEGAPIX HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8455
+#EXTINF:-1 tvg-id="" tvg-name="|BR| MULTISHOW HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/MULTISHOWHD.png" group-title="AM| BRAZIL",|BR| MULTISHOW HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8454
+#EXTINF:-1 tvg-id="" tvg-name="|BR| OFF HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/OFFHDAM.png" group-title="AM| BRAZIL",|BR| OFF HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8453
+#EXTINF:-1 tvg-id="" tvg-name="|BR| PARAMOUNT HD" tvg-logo="http://178.211.143.40:81/logos/4/LOGO2/AMCANADAHD/PARAMOUNT.png" group-title="AM| BRAZIL",|BR| PARAMOUNT HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8452
+#EXTINF:-1 tvg-id="" tvg-name="|BR| SONY CHANNEL HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/SONYCHANNELHD.png" group-title="AM| BRAZIL",|BR| SONY CHANNEL HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8451
+#EXTINF:-1 tvg-id="" tvg-name="|BR| SPACE HD" tvg-logo="http://103.161.34.214:81/logos/LATINO/SPACE.png" group-title="AM| BRAZIL",|BR| SPACE HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8450
+#EXTINF:-1 tvg-id="" tvg-name="|BR| STUDIO UNIVERSAL HD" tvg-logo="http://103.161.34.214:81/logos/LATINO/STUDIOUNIVERSAL.png" group-title="AM| BRAZIL",|BR| STUDIO UNIVERSAL HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8449
+#EXTINF:-1 tvg-id="" tvg-name="|BR| SYFY HD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/DOCUMENTARY/SYFY.png" group-title="AM| BRAZIL",|BR| SYFY HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8448
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TBS HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/TBSHD.png" group-title="AM| BRAZIL",|BR| TBS HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8447
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TCM HD" tvg-logo="http://logo.ottc.pro:8080/logos/CANADA/TCM.png" group-title="AM| BRAZIL",|BR| TCM HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8446
+#EXTINF:-1 tvg-id="" tvg-name="|BR| TLC HD" tvg-logo="http://logo.ottc.pro:8080/logos/CANADA/TLC.png" group-title="AM| BRAZIL",|BR| TLC HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8445
+#EXTINF:-1 tvg-id="" tvg-name="|BR| UNIVERSAL HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/UNIVERSALHD.png" group-title="AM| BRAZIL",|BR| UNIVERSAL HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8444
+#EXTINF:-1 tvg-id="" tvg-name="|BR| ZOOMOO HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/ZOOMOOHD.png" group-title="AM| BRAZIL",|BR| ZOOMOO HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8443
+#EXTINF:-1 tvg-id="" tvg-name="|BR| A&E HD" tvg-logo="http://103.161.34.240:81/logos/LATINO/AANDE.png" group-title="AM| BRAZIL",|BR| A&E HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8442
+#EXTINF:-1 tvg-id="" tvg-name="|BR| SPORTV 1 HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/SPORTV1HD.png" group-title="AM| BRAZIL",|BR| SPORTV 1 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8440
+#EXTINF:-1 tvg-id="" tvg-name="|BR| SPORTV 2 HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/SPORTV2HD.png" group-title="AM| BRAZIL",|BR| SPORTV 2 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8439
+#EXTINF:-1 tvg-id="" tvg-name="|BR| SPORTV 3 HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/SPORTV3HD.png" group-title="AM| BRAZIL",|BR| SPORTV 3 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8438
+#EXTINF:-1 tvg-id="" tvg-name="|BR| FOX SPORTS HD" tvg-logo="http://103.161.34.240:81/logos/LATINO/FOXSPORT.png" group-title="AM| BRAZIL",|BR| FOX SPORTS HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8437
+#EXTINF:-1 tvg-id="" tvg-name="|BR| ESPN HD" tvg-logo="http://logo.ottc.pro:8080/logos/NEDERLAND/ESPN.png" group-title="AM| BRAZIL",|BR| ESPN HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8435
+#EXTINF:-1 tvg-id="" tvg-name="|BR| ESPN EXTRA HD" tvg-logo="http://logo.ottc.pro:8080/logos/NEDERLAND/ESPN.png" group-title="AM| BRAZIL",|BR| ESPN EXTRA HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8434
+#EXTINF:-1 tvg-id="" tvg-name="|BR| ESPN 2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/NEDERLAND/ESPN.png" group-title="AM| BRAZIL",|BR| ESPN 2 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8433
+#EXTINF:-1 tvg-id="" tvg-name="|BR| ESPN BRASIL HD" tvg-logo="http://logo.ottc.pro:8080/logos/NEDERLAND/ESPN.png" group-title="AM| BRAZIL",|BR| ESPN BRASIL HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8432
+#EXTINF:-1 tvg-id="" tvg-name="|BR| COMBATE HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/COMBATEHD.png" group-title="AM| BRAZIL",|BR| COMBATE HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8431
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BAND SPORTS HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/BANDSPORTSHD.png" group-title="AM| BRAZIL",|BR| BAND SPORTS HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8430
+#EXTINF:-1 tvg-id="" tvg-name="|BR| BIS HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/BISHD.png" group-title="AM| BRAZIL",|BR| BIS HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8428
+#EXTINF:-1 tvg-id="" tvg-name="|BR| MTV HD" tvg-logo="http://178.211.143.40:81/logos/3/PHILIPPINE/MTV.png" group-title="AM| BRAZIL",|BR| MTV HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8427
+#EXTINF:-1 tvg-id="" tvg-name="|BR| ANIMAL PLANET HD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/DOCUMENTARY/ANIMALPLANET.png" group-title="AM| BRAZIL",|BR| ANIMAL PLANET HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8425
+#EXTINF:-1 tvg-id="" tvg-name="|BR| DISCOVERY HD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/DOCUMENTARY/DISCOVERY.png" group-title="AM| BRAZIL",|BR| DISCOVERY HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8424
+#EXTINF:-1 tvg-id="" tvg-name="|BR| DISCOVERY CIVILIZATION HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/DISCOVERYCIVILIZATIONHD.png" group-title="AM| BRAZIL",|BR| DISCOVERY CIVILIZATION HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8423
+#EXTINF:-1 tvg-id="" tvg-name="|BR| DISCOVERY H&H HD" tvg-logo="http://103.161.34.240:81/logos/MEXICO/DiscoveryHANDHHD.png" group-title="AM| BRAZIL",|BR| DISCOVERY H&H HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8422
+#EXTINF:-1 tvg-id="" tvg-name="|BR| DISCOVERY KIDS HD" tvg-logo="http://103.161.34.240:81/logos/BRAZIL/DISCOVERYKIDSHD.png" group-title="AM| BRAZIL",|BR| DISCOVERY KIDS HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8421
+#EXTINF:-1 tvg-id="" tvg-name="|BR| DISCOVERY SCIENCE HD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/DOCUMENTARY/DISCOVERYSCIENCE.png" group-title="AM| BRAZIL",|BR| DISCOVERY SCIENCE HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8420
+#EXTINF:-1 tvg-id="" tvg-name="|BR| DISCOVERY THEATER HD" tvg-logo="http://103.161.34.240:81/logos/MEXICO/DiscoveryTheaterFHD.png" group-title="AM| BRAZIL",|BR| DISCOVERY THEATER HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8419
+#EXTINF:-1 tvg-id="" tvg-name="|BR| DISCOVERY TURBO HD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/DOCUMENTARY/DISCOVERYTURBO.png" group-title="AM| BRAZIL",|BR| DISCOVERY TURBO HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8418
+#EXTINF:-1 tvg-id="" tvg-name="|BR| DISCOVERY WORLD HD" tvg-logo="http://logo.ottc.pro:8080/logos/ASIA/HINDI/DISCOVERYWORLDHD.png" group-title="AM| BRAZIL",|BR| DISCOVERY WORLD HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8417
+#EXTINF:-1 tvg-id="" tvg-name="|BR| HISTORY HD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/DOCUMENTARY/HISTORY.png" group-title="AM| BRAZIL",|BR| HISTORY HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8416
+#EXTINF:-1 tvg-id="" tvg-name="|BR| H2 HD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/DOCUMENTARY/HISTORY2.png" group-title="AM| BRAZIL",|BR| H2 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8415
+#EXTINF:-1 tvg-id="" tvg-name="|BR| DISCOVERY ID HD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/DOCUMENTARY/INVESTIGATIONDISCOVERYID.png" group-title="AM| BRAZIL",|BR| DISCOVERY ID HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8414
+#EXTINF:-1 tvg-id="" tvg-name="|BR| NAT GEO HD" tvg-logo="http://logo.ottc.pro:8080/logos/UNITEDKINGDOM/DOCUMENTARY/NATGEO.png" group-title="AM| BRAZIL",|BR| NAT GEO HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/8413
+#EXTINF:-1 tvg-id="" tvg-name="|BZ| POP PJ MASKS" tvg-logo="http://logo.ottc.pro:8080/logos/BACKGROUND/poppop1.png" group-title="AM| BRAZIL",|BZ| POP PJ MASKS
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/222709
+#EXTINF:-1 tvg-id="" tvg-name="|BR| POP DOCUMENTÁRIOS" tvg-logo="http://logo.ottc.pro:8080/logos/SPAIN/DOCUMTARY.png" group-title="AM| BRAZIL",|BR| POP DOCUMENTÁRIOS
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/209122
+http://ottspain.org:80/movie/S4KI4RWXMZ/
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="|US| FOX SPORTS 1 HD" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS 1 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/5897
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="|US| FOX SPORTS 2 HD" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS 2 HD
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/5896
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SOCCER PLUS" tvg-logo="http://logo.ottc.pro:8080/logos/USA.MISSING/FOXSOCCERPLUS.png" group-title="USA| SPORTS",|US| FOX SOCCER PLUS
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137668
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS DETROIT]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS DETROIT]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137669
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS DETROIT PLUS]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS DETROIT PLUS]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137670
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS SUN NORTH FLORIDA]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS SUN NORTH FLORIDA]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137671
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS NORTH FLORIDA]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS NORTH FLORIDA]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137672
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS WEST]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS WEST]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137673
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS OHIO]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS OHIO]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137675
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS SPORTSTIME OHIO]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS SPORTSTIME OHIO]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137677
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS MIDWEST]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS MIDWEST]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137678
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS MIDWEST PLUS]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS MIDWEST PLUS]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137679
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS SOUTHWEST]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS SOUTHWEST]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137680
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS SOUTH GEORGIA]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS SOUTH GEORGIA]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137682
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS NEW ORLEANS]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS NEW ORLEANS]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137683
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS NEW ORLEANS PLUS]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS NEW ORLEANS PLUS]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137684
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS SAN DIEGO]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS SAN DIEGO]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137685
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS SOUTHEAST]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS SOUTHEAST]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137688
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS TENNESSEE]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS TENNESSEE]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137690
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS CAROLINAS]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS CAROLINAS]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137691
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS NORTH CAROLINA]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS NORTH CAROLINA]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137692
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS ARIZONA]" tvg-logo="https://lo1.in/LOGO%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS ARIZONA]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137694
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS ARIZONA PLUS]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS ARIZONA PLUS]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137695
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS INDIANA]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS INDIANA]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137696
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS OKLAHOMA]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS OKLAHOMA]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137697
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS OKLAHOMA PLUS]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS OKLAHOMA PLUS]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137698
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS NORTH]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS NORTH]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137699
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS WISCONSIN]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS WISCONSIN]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137701
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS KANSAS CITY]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS KANSAS CITY]
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137702
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS CINCINNATI PLUS" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS CINCINNATI PLUS
+http://ottspain.org:80/S4KI4RWXMZ/AZWRJDEV31/137705
+#EXTINF:-1 tvg-id="" tvg-name="|US| FOX SPORTS PRIME TICKET]" tvg-logo="https://lo1.in/LOGO/BRAZIL%20HD/BRAZIL%20HD/FOXSPORTS.png" group-title="USA| SPORTS",|US| FOX SPORTS PRIME TICKET]
